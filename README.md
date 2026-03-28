@@ -1,7 +1,9 @@
 # llm-api
-llm api推荐
+
+llm api/coding plan推荐/导航 
 
 ## Coding Plan
+
 按周期提供且有请求或token上限
 
 | 服务商 | 价格 | 主流模型支持 |
@@ -17,6 +19,7 @@ llm api推荐
 
 
 ## API提供商（原厂）
+
 | 服务商 | 价格 | 最新模型 |
 | :---: | --- | --- |
 | OpenAI | [https://developers.openai.com/api/docs/pricing](https://developers.openai.com/api/docs/pricing) | gpt-5.4<br/>gpt-5.4-mini<br/>gpt-5.4-nano<br/>gpt-5.4-pro |
@@ -31,6 +34,7 @@ llm api推荐
 
 
 ## API提供商（第三方）
+
 | 服务商 | 价格 |
 | --- | --- |
 | OpenRouter | [https://openrouter.ai/pricing](https://openrouter.ai/pricing) |
@@ -44,5 +48,4 @@ llm api推荐
 |  |  |
 
 
-## 
 
